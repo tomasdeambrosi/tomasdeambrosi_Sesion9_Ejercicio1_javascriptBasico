@@ -1,0 +1,2 @@
+{"level":"error","service":"user-service"}
+{"level":"error","message":"Error: El valor ingresado no es un string","service":"user-service"}
